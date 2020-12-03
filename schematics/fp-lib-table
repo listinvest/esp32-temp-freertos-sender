@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name oa3400a)(type KiCad)(uri ${KIPRJMOD}/oa3400a.pretty)(options "")(descr ""))
+  (lib (name lalala)(type KiCad)(uri /home/mdarii/Documents/kocad/kicad-footprints)(options "")(descr ""))
+  (lib (name panel)(type KiCad)(uri /home/mdarii/Downloads/Kicad-Footprints-master/Panelization.pretty)(options "")(descr ""))
+)

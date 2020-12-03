@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/oa3400a.pretty/New_Library.lib)(options "")(descr ""))
+  (lib (name Transistor_FET)(type Legacy)(uri ${KIPRJMOD}/Transistor_FET.lib)(options "")(descr ""))
+  (lib (name tp0610t_copy)(type Legacy)(uri ${KIPRJMOD}/oa3400a.pretty/tp0610t_copy.lib)(options "")(descr ""))
+)
